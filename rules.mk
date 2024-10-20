@@ -1,0 +1,5 @@
+DEFAULT_FOLDER = crkbd/rev1
+OLED_DRIVER_ENABLE = yes
+OLED_ENABLE = yes
+WPM_ENABLE = yes
+LTO_ENABLE = yes
